@@ -1,9 +1,9 @@
 # UCI Search Engine
 
 ## Table Of Contents
-* [General Info] (#general-info)
-* [Technologies] (#technologies)
-* [Usage] (#usage)
+* [General Info](#general-info)
+* [Technologies](#technologies)
+* [Usage](#usage)
 
 ** General Info
 Search engine for the UCI domain created for Professor Ibrahim's CS121
@@ -15,6 +15,6 @@ Project is created with:
 * BS4 Library 4.10.0
 
 ## Usage
-Install [NLTK] (https://www.nltk.org/install.html) and [BS4] (https://pypi.org/project/beautifulsoup4/).
+Install [NLTK](https://www.nltk.org/install.html) and [BS4](https://pypi.org/project/beautifulsoup4/).
 
 Once the dependencies are installed, you can run 'python3 main.py'.
